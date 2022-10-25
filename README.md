@@ -4,14 +4,12 @@
 
 By Maulik Vadodariya
 
-![Completed Website](./readme-images/ScreenShot-20221017204113.png)
+![Completed Website](./readme-images/ScreenShot-20221025165604.png)
 
 ## What I learned from this Project?
 
 - I have done this project using HTML and CSS only.
-- In this project I learned about header and display `flex`.
-- In this project I learned a lot about position `relative` and `absolute`.
-- In this project I learned how to place one image on top of another by `z-index` and `position`.
+ 
 
-## I spent 3 to 4 hours in making this project
+## I spent 1.5 to 2 hours in making this project
 
