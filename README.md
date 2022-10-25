@@ -4,6 +4,8 @@
 
 By Maulik Vadodariya
 
+## [Link to the live Project](https://court-justice-landing.netlify.app/) 
+
 ![Completed Website](./readme-images/ScreenShot-20221025165604.png)
 
 ## What I learned from this Project?
